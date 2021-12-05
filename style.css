@@ -1,0 +1,82 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    color: black;
+}
+.custom-bunar-wide{
+    width: 100%;
+}
+@media only screen and (max-width: 450px) {
+    .custom-hide{
+        display: none;
+    } 
+}
+@media only screen and (max-width: 769px) {
+    .custom-padding{
+        margin-top: 5em;
+    }
+}
+@media only screen and (max-width: 1245px) {
+    .custom-bunar-wide{
+        width: auto;
+    } 
+}
+@media only screen and (min-width: 576px) {
+    .custom-gal-show{
+        display: none;
+    }
+    .custom-center{
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 575px) {
+    .custom-gal-show{
+        display: block;
+    }
+    .custom-center{
+        text-align: left;
+    }
+    .custom-x-center{
+        text-align: center !important;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .custom-x7-center{
+        text-align: center;
+    }
+}
+@media only screen and (min-width: 1244px) {
+    .custom-btn-margin{
+        margin-top:5em;
+    }
+}
+@media only screen and (max-width: 1243px){
+    .custom-btn-margin{
+        margin-top:1em;
+    }
+}
+/* .custom-color-n{
+    color:#218436;
+    text-shadow: rgb(255, 255, 255) 2px 0px 0px, 
+    rgb(255, 255, 255) 1.75517px 0.958851px 0px, 
+    rgb(255, 255, 255) 1.0806px 1.68294px 0px, 
+    rgb(255, 255, 255) 0.141474px 1.99499px 0px, 
+    rgb(255, 255, 255) -0.832294px 1.81859px 0px, 
+    rgb(255, 255, 255) -1.60229px 1.19694px 0px, 
+    rgb(255, 255, 255) -1.97998px 0.28224px 0px, 
+    rgb(255, 255, 255) -1.87291px -0.701566px 0px, 
+    rgb(255, 255, 255) -1.30729px -1.5136px 0px, rgb(255, 255, 255) -0.421592px -1.95506px 0px, rgb(255, 255, 255) 0.567324px -1.91785px 0px,
+    rgb(255, 255, 255) 1.41734px -1.41108px 0px, rgb(255, 255, 255) 1.92034px -0.558831px 0px;
+} */
+.custom-color-a{
+    color:#227caa;
+    text-shadow: rgb(255, 255, 255) 2px 0px 0px, 
+    rgb(255, 255, 255) 1.75517px 0.958851px 0px, 
+    rgb(255, 255, 255) 1.0806px 1.68294px 0px, 
+    rgb(255, 255, 255) 0.141474px 1.99499px 0px, 
+    rgb(255, 255, 255) -0.832294px 1.81859px 0px, 
+    rgb(255, 255, 255) -1.60229px 1.19694px 0px, 
+    rgb(255, 255, 255) -1.97998px 0.28224px 0px, 
+    rgb(255, 255, 255) -1.87291px -0.701566px 0px, 
+    rgb(255, 255, 255) -1.30729px -1.5136px 0px, rgb(255, 255, 255) -0.421592px -1.95506px 0px, rgb(255, 255, 255) 0.567324px -1.91785px 0px,
+    rgb(255, 255, 255) 1.41734px -1.41108px 0px, rgb(255, 255, 255) 1.92034px -0.558831px 0px;
+}
