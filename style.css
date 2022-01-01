@@ -1,4 +1,5 @@
-body{
+
+/* body{
     font-family: 'Oswald', sans-serif;
     color: black;
 }
@@ -67,7 +68,8 @@ body{
     rgb(255, 255, 255) -1.30729px -1.5136px 0px, rgb(255, 255, 255) -0.421592px -1.95506px 0px, rgb(255, 255, 255) 0.567324px -1.91785px 0px,
     rgb(255, 255, 255) 1.41734px -1.41108px 0px, rgb(255, 255, 255) 1.92034px -0.558831px 0px;
 } */
-.custom-color-a{
+
+/* .custom-color-a{
     color:#227caa;
     text-shadow: rgb(255, 255, 255) 2px 0px 0px, 
     rgb(255, 255, 255) 1.75517px 0.958851px 0px, 
@@ -79,4 +81,4 @@ body{
     rgb(255, 255, 255) -1.87291px -0.701566px 0px, 
     rgb(255, 255, 255) -1.30729px -1.5136px 0px, rgb(255, 255, 255) -0.421592px -1.95506px 0px, rgb(255, 255, 255) 0.567324px -1.91785px 0px,
     rgb(255, 255, 255) 1.41734px -1.41108px 0px, rgb(255, 255, 255) 1.92034px -0.558831px 0px;
-}
+}  */
